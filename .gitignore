@@ -1,0 +1,15 @@
+project/boot
+project/build/target
+project/plugins/project
+.scala_dependencies
+.idea
+.settings
+*.iml
+.manager
+target
+lib
+lib_managed
+tags
+TAGS
+logs
+src_managed

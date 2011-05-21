@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<classpath>
+<classpathentry kind="src" path="src/test/scala" output="target/scala_2.9.0/test-classes" including="**/*.scala" />
+<classpathentry kind="src" path="src/main/scala" including="**/*.scala" />
+<classpathentry kind="lib" path="lib_managed/scala_2.9.0/test/scalacheck_2.9.0-1.9.jar" />
+<classpathentry kind="lib" path="lib_managed/scala_2.9.0/test/test-interface-0.5.jar" />
+<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER" />
+<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" />
+<classpathentry kind="output" path="target/scala_2.9.0/classes" />
+</classpath>
